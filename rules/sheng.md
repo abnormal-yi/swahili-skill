@@ -23,6 +23,45 @@ Sheng is a Swahili-English urban slang originating in Nairobi, Kenya, now used a
 | sherehe | Party / fun | From Swahili |
 | mbaba | Father / old man | |
 | buibui | Money | Literally "spider" |
+| chapaa / mbao / ganji / mkwanja | Money | Multiple slang terms for cash |
+| bei poa | good/fair price | |
+| noma | Bad / serious / tough situation | |
+| mzae | Parent (mom or dad) | |
+| dame | Girl/woman | |
+| beshte / bro | Close friend | |
+| jipange | Get organized / sort yourself out | |
+| jichanganya | To mix things up / get confused | |
+| kuchill | To relax | |
+| niko sawa | I'm okay/fine | |
+| story | Issue/topic/news | "Una story gani?" = What's the news? |
+| mzigo | Problem/burden (lit. "luggage") | |
+| kupatana | To agree / settle on a deal | common in price negotiation |
+| bamba sana | Very good / excellent | |
+| kushikana | To be in agreement / understand each other | |
+| utado? | What are you going to do? | rhetorical, "so what now?" |
+| niko fiti | I'm fine/great | more Kenyan |
+| sasa? | What's up? (greeting) | common in TZ too |
+| mambo vipi | What's up (casual greeting) | |
+| kazi kibao | A lot of work | "kibao" = a lot/many |
+| pesa kidogo | Small/little money | |
+| chenji | Change (money) | |
+| simu | Phone | standard, but very common |
+| beste | Best friend | |
+
+### Tanzanian Bongo Slang (Bongo Fleva influenced)
+
+| Term | Meaning | Notes |
+|------|---------|-------|
+| mzee | Sir/older man (respectful) | also general term for "the guy" |
+| poa kabisa | Totally cool | |
+| mambo bro | Hey bro | |
+| acha mzaha | Stop joking / seriously | |
+| dogo / dogoo | Young person/kid | |
+| mkuu | Boss/chief (respectful address) | common between colleagues |
+| sema kiundani | Explain in detail | |
+| safi | Nice/clean/good | also literal "clean" |
+| kazi imeshawiwa | The work is done well | |
+| naomba kibali | Requesting permission/approval | |
 
 ### Usage Note
 

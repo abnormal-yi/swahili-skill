@@ -15,6 +15,7 @@ Swahili (Kiswahili) is a Bantu language spoken by over 200 million people in Eas
 | Noun Classes | `rules/noun-classes.md` | HIGH |
 | Verb Conjugation | `rules/verb-conjugation.md` | HIGH |
 | Core Vocabulary | `rules/vocabulary.md` | MEDIUM-HIGH |
+| Tech/Business/Tourism Vocabulary | `rules/tech-business-vocabulary.md` | HIGH |
 | Sentence Structure | `rules/grammar.md` | MEDIUM-HIGH |
 | Sheng | `rules/sheng.md` | MEDIUM |
 | Cultural Context | `rules/cultural-context.md` | MEDIUM |
