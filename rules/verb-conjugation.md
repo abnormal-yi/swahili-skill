@@ -47,4 +47,23 @@ Future:   sitasoma      (si- + ta- + soma)
 Perfect:  sijasoma      (si- + ja- + soma)
 ```
 
+### Imperative (Commands)
+
+| Form | Singular | Plural |
+|---|---|---|
+| Affirmative | soma (read!) | someni (read! pl.) |
+| Negative | usisome (don't read) | msisome (don't read, pl.) |
+| Polite request | tafadhali soma | tafadhali someni |
+
+### Modal Obligation ("must/should")
+
+| Swahili | English |
+|---|---|
+| Lazima + verb (subjunctive) | Must — e.g. "Lazima nisome" (I must read) |
+| Sharti + verb (subjunctive) | Must/it is necessary that |
+| Inabidi + verb (subjunctive) | One has to / it's required — e.g. "Inabidi turekebishe" (We have to fix it) |
+| Ninapaswa kufanya | I should/ought to do |
+| Ningependa | I would like (polite request) |
+
 Reference: [Verb Conjugation in SKILL.md](#verb-conjugation)
+

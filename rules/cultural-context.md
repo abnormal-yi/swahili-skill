@@ -35,6 +35,14 @@ tags: swahili, culture, east-africa, etiquette
 | Dada | Sister / female peer |
 | Kaka | Brother / male peer |
 
+### Business & Digital Communication Etiquette
+
+- East African business chats (WhatsApp, email) often open with a greeting even in quick messages — skipping it can feel abrupt. A short "Habari/Mambo" or "Hi [name], hope you're well" goes a long way before diving into business.
+- "Pole" is also used proactively to acknowledge someone's effort/workload before making a request (e.g., "Pole kwa kazi, naomba..." = "Sorry for the work [you're doing], I'd like to ask...").
+- Negotiation is normal and expected for pricing ("kupatana" — settling on a price); stating a fixed price too rigidly can feel unfriendly.
+- "Karibu" (welcome) is used very broadly — welcoming someone to a place, a meal, a conversation, or even to "feel free" to do something.
+- Silence or a delayed reply isn't necessarily rude — but a quick acknowledgment ("Sawa, nitarudi" / "OK, I'll get back to you") is appreciated to keep trust in client relationships.
+
 ### Time
 
 Swahili time shifts by **+6 hours** from standard time:
