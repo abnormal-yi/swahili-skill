@@ -1,6 +1,5 @@
 # Swahili Agent Skill
 
-A comprehensive Swahili language reference for AI agents — covering grammar (sarufi), noun classes (ngeli), verb conjugations, vocabulary (msamiati), Sheng slang, cultural context, and the skills.sh ecosystem.
 
 ## Structure
 
@@ -18,7 +17,6 @@ swahili-skill/
 │   ├── grammar.md        # Sentence structure, possessives, demonstratives
 │   ├── sheng.md          # Swahili-English urban slang
 │   ├── cultural-context.md # Politeness, proverbs, addressing people
-│   └── skills-ecosystem.md # skills.sh CLI reference
 └── src/                  # Build scripts (future)
 ```
 
@@ -45,7 +43,6 @@ cp swahili-skill/SKILL.md ~/.agents/skills/swahili/
 - **Sheng** — 15+ East African urban slang terms
 - **Cultural context** — Shikamoo, methali (proverbs), etiquette, titles
 - **Common mistakes** — 10 frequent errors with corrections
-- **Skills ecosystem** — skills.sh, npx skills CLI, publishing
 
 ## Compatibility
 

@@ -2,8 +2,8 @@
   "name": "swahili",
   "version": "1.0.0",
   "organization": "abnormal-yi",
-  "description": "Comprehensive Swahili language reference for AI agents — grammar, noun classes (ngeli), verb conjugations, vocabulary, Sheng slang, cultural context, and skills.sh ecosystem tools",
+  "description": "Comprehensive Swahili language reference for AI agents — grammar, noun classes (ngeli), verb conjugations, vocabulary, Sheng slang, cultural context",
   "abstract": "A structured reference for AI agents to understand, speak, and generate Swahili (Kiswahili) with grammatical accuracy, cultural appropriateness, and lexical breadth. Covers 16 noun classes, all verb tenses, negation patterns, Sheng (East African urban slang), methali (proverbs), and integration with the open agent skills ecosystem.",
-  "tags": ["swahili", "kiswahili", "language", "sheng", "east-africa", "kenya", "tanzania", "ngeli", "sarufi", "bantu", "skills.sh"],
+  "tags": ["swahili", "kiswahili", "language", "sheng", "east-africa", "kenya", "tanzania", "ngeli", "sarufi", "bantu"],
   "agents": ["claude-code", "cursor", "codex", "github-copilot", "windsurf", "gemini", "cline", "amp"]
 }

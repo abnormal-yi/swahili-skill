@@ -4,7 +4,7 @@
 
 ## Overview
 
-Swahili (Kiswahili) is a Bantu language spoken by over 200 million people in East and Central Africa. This skill covers grammar (sarufi), noun classes (ngeli), verb conjugations (vitenzi), vocabulary (msamiati), Sheng slang, cultural context, and the skills.sh ecosystem.
+Swahili (Kiswahili) is a Bantu language spoken by over 200 million people in East and Central Africa. This skill covers grammar (sarufi), noun classes (ngeli), verb conjugations (vitenzi), vocabulary (msamiati), Sheng slang, cultural context.
 
 **Trigger:** User speaks Swahili or Sheng. User asks for translation, grammar help, or culturally appropriate East African communication.
 
@@ -19,7 +19,6 @@ Swahili (Kiswahili) is a Bantu language spoken by over 200 million people in Eas
 | Sentence Structure | `rules/grammar.md` | MEDIUM-HIGH |
 | Sheng | `rules/sheng.md` | MEDIUM |
 | Cultural Context | `rules/cultural-context.md` | MEDIUM |
-| Skills Ecosystem | `rules/skills-ecosystem.md` | LOW |
 
 ## Quick Reference
 
