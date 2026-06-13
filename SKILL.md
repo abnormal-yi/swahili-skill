@@ -1,23 +1,23 @@
 ---
 name: swahili
-description: Use when the user speaks Kiswahili (Swahili), mixes Kiswahili and English (Sheng), or asks the agent to understand, speak, or translate Kiswahili words, phrases, or sentences. Use when the user needs help with Swahili grammar (sarufi), noun classes (ngeli), verb conjugations (viwakilishi/vitenzi), or common vocabulary (msamiati). Also use when the user requests a skill or content in the context of East African languages.
+description: Use when the user speaks Swahili (Swahili), mixes Swahili and English (Sheng), or asks the agent to understand, speak, or translate Swahili words, phrases, or sentences. Use when the user needs help with Swahili grammar (sarufi), noun classes (ngeli), verb conjugations (viwakilishi/vitenzi), or common vocabulary (msamiati). Also use when the user requests a skill or content in the context of East African languages.
 ---
 
-# Kiswahili — Comprehensive Language Reference for AI Agents
+# Swahili — Comprehensive Language Reference for AI Agents
 
 ## Overview
-Kiswahili (Swahili) is a Bantu language spoken by over 200 million people in East and Central Africa. It is the national language of Kenya, Tanzania, Uganda, and the Democratic Republic of Congo, and a working language of the African Union. This skill enables the agent to understand, generate, and respond to Kiswahili with grammatical accuracy, cultural appropriateness, and lexical breadth.
+Swahili (Swahili) is a Bantu language spoken by over 200 million people in East and Central Africa. It is the national language of Kenya, Tanzania, Uganda, and the Democratic Republic of Congo, and a working language of the African Union. This skill enables the agent to understand, generate, and respond to Swahili with grammatical accuracy, cultural appropriateness, and lexical breadth.
 
 ## When to Use
-- User speaks Kiswahili or Sheng (mixed Swahili-English)
-- User asks for translation to/from Kiswahili
+- User speaks Swahili or Sheng (mixed Swahili-English)
+- User asks for translation to/from Swahili
 - User asks about Swahili grammar, noun classes, or verb tenses
 - User wants culturally appropriate responses in an East African context
-- User requests content in Kiswahili (education, business, creative)
+- User requests content in Swahili (education, business, creative)
 
-## Noun Classes (Ngeli za Kiswahili)
+## Noun Classes (Ngeli za Swahili)
 
-Kiswahili has **16 noun classes** indicated by prefixes. Every noun belongs to a class, and adjectives, verbs, and pronouns must agree.
+Swahili has **16 noun classes** indicated by prefixes. Every noun belongs to a class, and adjectives, verbs, and pronouns must agree.
 
 | Ngeli | Prefix | Mfano (Example) | Marked by |
 |-------|--------|----------------|-----------|
@@ -100,7 +100,7 @@ Future: **Si-** + **ta-**
 ## Common Vocabulary (Msamiati wa Kawaida)
 
 ### Greetings (Salamu)
-| Kiswahili | English |
+| Swahili | English |
 |-----------|---------|
 | Habari / Hujambo | Hello (general) |
 | Habari yako / Habari gani? | How are you? |
@@ -117,7 +117,7 @@ Future: **Si-** + **ta-**
 | Masaalkheri | Good evening (from Arabic) |
 
 ### Common Verbs (Vitenzi vya Kawaida)
-| Kiswahili | English | Tense form (-na-) |
+| Swahili | English | Tense form (-na-) |
 |-----------|---------|-------------------|
 | -wa / kuwa | to be | nina**wa** |
 | -enda / kwenda | to go | nina**enda** |
@@ -140,7 +140,7 @@ Future: **Si-** + **ta-**
 | -fanya kazi / kufanya kazi | to work | nina**fanya kazi** |
 
 ### Numbers (Nambari)
-| Number | Kiswahili |
+| Number | Swahili |
 |--------|-----------|
 | 0 | sifuri |
 | 1 | moja |
@@ -161,7 +161,7 @@ Future: **Si-** + **ta-**
 | 1,000,000 | milioni |
 
 ### Days of the Week (Siku za Wiki)
-| Kiswahili | English |
+| Swahili | English |
 |-----------|---------|
 | Jumatatu | Monday |
 | Jumanne | Tuesday |
@@ -175,7 +175,7 @@ Future: **Si-** + **ta-**
 | Jana | Yesterday |
 
 ### Time (Muda)
-| Kiswahili | English |
+| Swahili | English |
 |-----------|---------|
 | saa moja asubuhi | 7:00 AM (1st hour of morning) |
 | saa mbili asubuhi | 8:00 AM |
@@ -184,7 +184,7 @@ Future: **Si-** + **ta-**
 | saa kumi na mbili usiku | 6:00 PM (sunset) |
 | saa nne usiku | 10:00 PM |
 
-NOTE: Kiswahili time shifts by 6 hours. Saa moja (1 o'clock) = 7:00 AM.
+NOTE: Swahili time shifts by 6 hours. Saa moja (1 o'clock) = 7:00 AM.
 
 ## Sentence Structure (Muundo wa Sentensi)
 
@@ -222,7 +222,7 @@ Kitabu kizuri →  Vitabu vizuri
 
 ## Common Phrases (Misemo ya Kawaida)
 
-| Kiswahili | English |
+| Swahili | English |
 |-----------|---------|
 | Asante / Asante sana | Thank you / Thank you very much |
 | Karibu | Welcome / You're welcome |
@@ -281,7 +281,7 @@ anakunywa (s/he is drinking) → anakunywe**sha** (s/he is giving a drink / maki
 | ma- | collectives/plural | **ma**jina (names), **ma**gari (cars) |
 
 ### Sentence Connecting Words (Viunganishi)
-| Kiswahili | English |
+| Swahili | English |
 |-----------|---------|
 | lakini / bali | but |
 | kwa sababu / sababu | because |
@@ -303,7 +303,7 @@ anakunywa (s/he is drinking) → anakunywe**sha** (s/he is giving a drink / maki
 2. Abstract/liquid: **ma**ji (water), **ma**futa (oil)
 3. Plural of borrowed words: **ma**gari (cars), **ma**basi (buses)
 
-## Sheng (Mchanganyiko wa Kiswahili na Kiingereza)
+## Sheng (Mchanganyiko wa Swahili na Kiingereza)
 
 Sheng is a Swahili-English urban slang widely used in Kenya, especially Nairobi. Common Sheng terms:
 
@@ -334,7 +334,7 @@ Sheng is a Swahili-English urban slang widely used in Kenya, especially Nairobi.
 - **Karibu** is used for both "welcome" and "you're welcome"
 
 ### Proverb Use (Methali)
-Kiswahili has rich oral tradition. Common methali:
+Swahili has rich oral tradition. Common methali:
 - **Haraka haraka haina baraka** — Haste has no blessings (slow down)
 - **Asiyefunzwa na mamae hufunzwa na ulimwengu** — Who isn't taught by mother is taught by the world
 - **Kidole kimoja hakivunji chawa** — One finger cannot kill a louse (teamwork)
@@ -430,12 +430,12 @@ Skill inaingia kwenye mfumo wa agent yako
 
 Skills.sh inakubali skills kutoka GitHub repo yoyote iliyo na SKILL.md. Ingorofa ya ugunduzi (discovery layer) — haihifadhi skills zenyewe bali inaelekeza kwenye repos.
 
-### Important Considerations When Using Skills in Kiswahili
+### Important Considerations When Using Skills in Swahili
 
-- Skills inazungumza na agent kwa Kiingereza kwa kawaida, lakini zinaweza kuwa na instructions za Kiswahili
-- Unaweza kuunda skill ya Kiswahili na kuichapisha skills.sh ili AI agents wote waelewe Kiswahili
+- Skills inazungumza na agent kwa Kiingereza kwa kawaida, lakini zinaweza kuwa na instructions za Swahili
+- Unaweza kuunda skill ya Swahili na kuichapisha skills.sh ili AI agents wote waelewe Swahili
 - Tumia `description: "Use when..."` kwa Kiingereza ili agents wote watafute — lugha ya frontmatter inapaswa kuwa Kiingereza kwa ugunduzi wa kimataifa
-- Keyword katika Kiswahili zinaweza kusaidia pia: "Kiswahili", "msamiati", "sarufi", "ngeli", "Sheng"
+- Keyword katika Swahili zinaweza kusaidia pia: "Swahili", "msamiati", "sarufi", "ngeli", "Sheng"
 
 ### Mfano wa Kuvinjari skills.sh
 
@@ -494,10 +494,10 @@ Kisha andika SKILL.md yako, chapisha GitHub, na skills.sh itajiongeza yenyewe.
 
 ## Common Mistakes to Watch For (Makosa ya Kawaida)
 
-1. **Time confusion**: Remember Kiswahili time = UTC/GMT time + 6. Saa moja asubuhi = 7 AM.
+1. **Time confusion**: Remember Swahili time = UTC/GMT time + 6. Saa moja asubuhi = 7 AM.
 2. **Noun class agreement**: Always match adjectives, verbs, and possessives with noun class.
 3. **Overusing "amba-"**: The relative markers (-ye-, -o-, -cho-, etc.) are preferred in formal Swahili over "ambaye/ambacho/ambao."
-4. **Sheng vs Standard**: Sheng is informal; use standard Kiswahili for formal/professional contexts.
+4. **Sheng vs Standard**: Sheng is informal; use standard Swahili for formal/professional contexts.
 5. **Mixing ngeli**: Don't mix noun classes — e.g., "kitu **mzuri**" is wrong (should be "kitu **kizuri**").
 6. **Arabic-origin words**: Many words come from Arabic (saa, kitabu, shukrani, baridi) — their pluralization follows Bantu rules.
 7. **Reflexive -ji-**: Comes between subject prefix and tense marker: **naji**soma (I teach myself).
@@ -507,7 +507,7 @@ Kisha andika SKILL.md yako, chapisha GitHub, na skills.sh itajiongeza yenyewe.
 
 ## Verification
 
-When responding in Kiswahili, verify:
+When responding in Swahili, verify:
 - Noun class agreement throughout the sentence
 - Correct tense marker for intended time reference
 - Proper negation pattern (not mixing affirmative and negative markers)
