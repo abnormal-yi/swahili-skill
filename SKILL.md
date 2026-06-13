@@ -1,5 +1,5 @@
 ---
-name: kiswahili
+name: swahili
 description: Use when the user speaks Kiswahili (Swahili), mixes Kiswahili and English (Sheng), or asks the agent to understand, speak, or translate Kiswahili words, phrases, or sentences. Use when the user needs help with Swahili grammar (sarufi), noun classes (ngeli), verb conjugations (viwakilishi/vitenzi), or common vocabulary (msamiati). Also use when the user requests a skill or content in the context of East African languages.
 ---
 
