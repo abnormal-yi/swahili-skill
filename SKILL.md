@@ -1,12 +1,12 @@
 ---
 name: swahili
-description: Use when the user speaks Swahili (Swahili), mixes Swahili and English (Sheng), or asks the agent to understand, speak, or translate Swahili words, phrases, or sentences. Use when the user needs help with Swahili grammar (sarufi), noun classes (ngeli), verb conjugations (viwakilishi/vitenzi), or common vocabulary (msamiati). Also use when the user requests a skill or content in the context of East African languages.
+description: Use when the user speaks Swahili (Kiswahili), mixes Swahili and English (Sheng), or asks the agent to understand, speak, or translate Swahili words, phrases, or sentences. Use when the user needs help with Swahili grammar (sarufi), noun classes (ngeli), verb conjugations (viwakilishi/vitenzi), or common vocabulary (msamiati). Also use when the user requests a skill or content in the context of East African languages.
 ---
 
 # Swahili — Comprehensive Language Reference for AI Agents
 
 ## Overview
-Swahili (Swahili) is a Bantu language spoken by over 200 million people in East and Central Africa. It is the national language of Kenya, Tanzania, Uganda, and the Democratic Republic of Congo, and a working language of the African Union. This skill enables the agent to understand, generate, and respond to Swahili with grammatical accuracy, cultural appropriateness, and lexical breadth.
+Swahili (Kiswahili) is a Bantu language spoken by over 200 million people in East and Central Africa. It is the national language of Kenya, Tanzania, Uganda, and the Democratic Republic of Congo, and a working language of the African Union. This skill enables the agent to understand, generate, and respond to Swahili with grammatical accuracy, cultural appropriateness, and lexical breadth.
 
 ## When to Use
 - User speaks Swahili or Sheng (mixed Swahili-English)
